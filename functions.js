@@ -1,1 +1,1 @@
-alert("hola que tal editado")
+alert("Hola")
